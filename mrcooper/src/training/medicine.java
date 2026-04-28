@@ -10,6 +10,7 @@ public class medicine {
         this.medid = medid;
         this.medname = medname;
     }
+    
 
 
     public int getid(){
