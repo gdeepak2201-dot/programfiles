@@ -123,7 +123,7 @@ import java.util.Scanner;
 //        int arr[] = {1,2,3,5};
 //        for(int i=0;i<4;i++){
 //            total-=arr[i];
-//        }
+//        }  
 //        System.out.println(total);
 //    }
 //}
