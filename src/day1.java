@@ -138,7 +138,7 @@ public class day1 {
         for(int i=0;i<name.length()-1;i++){
             for(int j=0;j<arr.length-1;j++){
                 char c = name.charAt(j);
-                if(arr[i]==c){
+                if(arr[i]==c){   
                     flag=true;
                     break;
                 }
