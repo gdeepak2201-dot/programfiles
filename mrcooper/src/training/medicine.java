@@ -8,10 +8,8 @@ public class medicine {
     public medicine(int dose, int medid, String medname) { 
         this.dose = dose;
         this.medid = medid;
-        this.medname = medname;
+        this.medname = medname;  
     }
-    
-
 
     public int getid(){
         return medid;
