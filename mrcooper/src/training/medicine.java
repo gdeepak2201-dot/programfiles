@@ -7,7 +7,7 @@ public class medicine {
 
     public medicine(int dose, int medid, String medname) { 
         this.dose = dose;
-        this.medid = medid;
+        this.medid = medid;  
         this.medname = medname;  
     }
 
